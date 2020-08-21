@@ -1,0 +1,4 @@
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\b\CodedUITest\bin\Debug\CodedUITest.dll
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\CodedUITest\Debug\CodedUITest.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\CodedUITest\Debug\CodedUITest.csproj.CopyComplete
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\CodedUITest\Debug\CodedUITest.dll

@@ -1,0 +1,65 @@
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.dll
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.pdb
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\Application.pdb
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.dll
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.pdb
+E:\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.dll
+E:\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.pdb
+E:\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe
+E:\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\Application.pdb
+E:\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.dll
+E:\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.pdb
+E:\трпо\ChuguiLab1\ChuguiLab1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csprojAssemblyReference.cache
+E:\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CoreCompileInputs.cache
+E:\трпо\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CopyComplete
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.dll
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CopyComplete
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.dll
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.pdb
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.pdb
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.pdb
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csprojAssemblyReference.cache
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CopyComplete
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.pdb
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Castle.Core.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Moq.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe.config
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Castle.Core.xml
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Moq.xml
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IcePrince\Desktop\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ChuguiLab1.pdb
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Castle.Core.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Moq.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.pdb
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Application.exe.config
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Castle.Core.xml
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\Moq.xml
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csprojAssemblyReference.cache
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CoreCompileInputs.cache
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.csproj.CopyComplete
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.dll
+E:\Learning\3 курс\Тест ПО\LAB2\ChuguiLab1\ChuguiLab1\obj\Debug\ChuguiLab1.pdb

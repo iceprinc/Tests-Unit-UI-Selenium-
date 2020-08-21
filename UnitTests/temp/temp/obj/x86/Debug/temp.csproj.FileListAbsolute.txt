@@ -1,0 +1,10 @@
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\temp\temp\bin\Debug\temp.exe
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\temp\temp\bin\Debug\temp.pdb
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\temp\temp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\temp\temp\obj\x86\Debug\temp.exe
+C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\temp\temp\obj\x86\Debug\temp.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\temp\temp\bin\Debug\temp.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\temp\temp\bin\Debug\temp.pdb
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\temp\temp\obj\x86\Debug\temp.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\temp\temp\obj\x86\Debug\temp.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB2\temp\temp\obj\x86\Debug\temp.pdb

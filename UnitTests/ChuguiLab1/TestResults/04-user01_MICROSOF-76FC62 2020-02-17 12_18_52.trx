@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="76b3a788-d673-4572-bdc7-4d3cfbdbd1e1" name="04-user01@MICROSOF-76FC62 2020-02-17 12:18:52" runUser="MICROSOF-76FC62\04-user01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="fd56e045-bb1b-4f84-812d-ee06f58e8539">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="04-user01_MICROSOF-76FC62 2020-02-17 12_18_52">
+      <DeploymentItem filename="C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\Application\bin\Debug\Application.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-02-17T12:18:52.8125000+03:00" queuing="2020-02-17T12:18:52.8281250+03:00" start="2020-02-17T12:18:53.0937500+03:00" finish="2020-02-17T12:18:56.0000000+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="StringFormatterTmp" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="ec87b362-8688-423c-d4f6-fcc54213434a">
+      <Execution id="adfac634-3e45-4d24-ba0a-1e8236a23b4b" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterTmp" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ec87b362-8688-423c-d4f6-fcc54213434a" executionId="adfac634-3e45-4d24-ba0a-1e8236a23b4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="adfac634-3e45-4d24-ba0a-1e8236a23b4b" testId="ec87b362-8688-423c-d4f6-fcc54213434a" testName="StringFormatterTmp" computerName="MICROSOF-76FC62" duration="00:00:00.0444693" startTime="2020-02-17T12:18:53.3750000+03:00" endTime="2020-02-17T12:18:55.1718750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="adfac634-3e45-4d24-ba0a-1e8236a23b4b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

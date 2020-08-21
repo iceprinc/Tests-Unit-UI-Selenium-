@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="649f7750-eb72-404e-9ede-867839b0875e" name="04-user01@MICROSOF-76FC62 2020-02-17 12:24:21" runUser="MICROSOF-76FC62\04-user01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="fd56e045-bb1b-4f84-812d-ee06f58e8539">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="04-user01_MICROSOF-76FC62 2020-02-17 12_24_21">
+      <DeploymentItem filename="C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\Application\bin\Debug\Application.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-02-17T12:24:21.3437500+03:00" queuing="2020-02-17T12:24:22.8125000+03:00" start="2020-02-17T12:24:25.3125000+03:00" finish="2020-02-17T12:24:30.8750000+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ArrayProcessorNegative" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="bd018364-a98b-f042-56e4-1f337a002b4a">
+      <Execution id="5d5bb934-fe90-45c6-bfcd-3ab7da088c58" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorNegative" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="bd018364-a98b-f042-56e4-1f337a002b4a" executionId="5d5bb934-fe90-45c6-bfcd-3ab7da088c58" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5d5bb934-fe90-45c6-bfcd-3ab7da088c58" testId="bd018364-a98b-f042-56e4-1f337a002b4a" testName="ArrayProcessorNegative" computerName="MICROSOF-76FC62" duration="00:00:00.1747895" startTime="2020-02-17T12:24:25.8750000+03:00" endTime="2020-02-17T12:24:30.2968750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d5bb934-fe90-45c6-bfcd-3ab7da088c58">
+    </UnitTestResult>
+  </Results>
+</TestRun>

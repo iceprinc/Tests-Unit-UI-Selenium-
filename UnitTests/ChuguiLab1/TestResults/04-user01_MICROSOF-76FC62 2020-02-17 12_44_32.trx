@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="4aa157a6-546b-40a5-b283-776641e4dfd5" name="04-user01@MICROSOF-76FC62 2020-02-17 12:44:32" runUser="MICROSOF-76FC62\04-user01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="fd56e045-bb1b-4f84-812d-ee06f58e8539">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="04-user01_MICROSOF-76FC62 2020-02-17 12_44_32">
+      <DeploymentItem filename="C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\Application\bin\Debug\Application.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-02-17T12:44:32.5468750+03:00" queuing="2020-02-17T12:44:33.8750000+03:00" start="2020-02-17T12:44:34.3281250+03:00" finish="2020-02-17T12:44:37.3593750+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ArrayProcessorAll" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="43ab9d73-7439-f6ff-cded-3c6b9921ee3b">
+      <Execution id="6c6612bb-8ebf-48f5-a216-c121030ded77" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorAll" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="43ab9d73-7439-f6ff-cded-3c6b9921ee3b" executionId="6c6612bb-8ebf-48f5-a216-c121030ded77" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6c6612bb-8ebf-48f5-a216-c121030ded77" testId="43ab9d73-7439-f6ff-cded-3c6b9921ee3b" testName="ArrayProcessorAll" computerName="MICROSOF-76FC62" duration="00:00:00.8716244" startTime="2020-02-17T12:44:34.4218750+03:00" endTime="2020-02-17T12:44:37.2812500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c6612bb-8ebf-48f5-a216-c121030ded77">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.AreEqual. Ожидается: &lt;0,8&gt;. Фактически: &lt;0,1&gt;. </Message>
+          <StackTrace>   в ChuguiLab1.UnitTest1.ArrayProcessorAll() в C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\ChuguiLab1\UnitTest1.cs:строка 146
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

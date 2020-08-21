@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="39428d21-0549-4818-b89b-679257b09d20" name="04-user01@MICROSOF-76FC62 2020-02-17 12:43:43" runUser="MICROSOF-76FC62\04-user01" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="fd56e045-bb1b-4f84-812d-ee06f58e8539">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="04-user01_MICROSOF-76FC62 2020-02-17 12_43_43">
+      <DeploymentItem filename="C:\Documents and Settings\04-user01.MICROSOF-76FC62.000\Рабочий стол\трпо\ChuguiLab1\Application\bin\Debug\Application.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-02-17T12:43:43.6875000+03:00" queuing="2020-02-17T12:43:45.5468750+03:00" start="2020-02-17T12:43:46.0312500+03:00" finish="2020-02-17T12:43:48.3281250+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="12" executed="12" passed="12" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ArrayProcessorCheckNegative" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="a10abc9f-5203-0bc0-2cc4-14c613020f56">
+      <Execution id="791631d7-7691-4298-857c-258668fbc67c" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorCheckNegative" />
+    </UnitTest>
+    <UnitTest name="StringFormatterEXE" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="5046bf53-cdbc-d452-b0b7-d696d86a027f">
+      <Execution id="1251a3fa-e175-4137-bc42-48245166df65" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterEXE" />
+    </UnitTest>
+    <UnitTest name="ArrayProcessorDeleteDoubleNumbers" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="5bad3c21-1fa5-d988-90fa-69b025d09d66">
+      <Execution id="ba87ab33-0339-458d-b337-02b47c51aa89" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorDeleteDoubleNumbers" />
+    </UnitTest>
+    <UnitTest name="ArrayProcessorArraySorted" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="1f216e23-68ff-d555-3232-1f3fd8d9095d">
+      <Execution id="63d39bd6-a8ed-45be-b0f0-57a09d5dea9a" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorArraySorted" />
+    </UnitTest>
+    <UnitTest name="StringFormatterStringVoid" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="8227228f-dbda-d0f8-4343-5d09ef2373be">
+      <Execution id="00a75164-c488-422c-970a-8c5c23845af3" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterStringVoid" />
+    </UnitTest>
+    <UnitTest name="StringFormatterTmp" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="ec87b362-8688-423c-d4f6-fcc54213434a">
+      <Execution id="e9ef7a96-7c5e-4cc1-a23d-2bec1083638e" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterTmp" />
+    </UnitTest>
+    <UnitTest name="TriangleNegativeSide" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="593d1ef1-a096-e454-f6dc-20e6450897da">
+      <Execution id="a0185570-fd3c-4e32-ae47-aa1f50f75e2c" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TriangleNegativeSide" />
+    </UnitTest>
+    <UnitTest name="StringFormatterNotEXE" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="5667c0c7-0c2a-07f3-cc62-9d00232a0507">
+      <Execution id="44f223b0-a47d-4d77-a936-2601e7fae50f" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterNotEXE" />
+    </UnitTest>
+    <UnitTest name="StringFormatterStringNull" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="1e60eff4-49fb-1043-e012-7333ce6e062d">
+      <Execution id="4d5d4cbf-966d-4491-90a8-d72c709dafcd" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StringFormatterStringNull" />
+    </UnitTest>
+    <UnitTest name="ArrayProcessorAll" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="43ab9d73-7439-f6ff-cded-3c6b9921ee3b">
+      <Execution id="13de0027-618c-46a8-881e-c1dff852eaed" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ArrayProcessorAll" />
+    </UnitTest>
+    <UnitTest name="TriangleBasic" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="a27e9cf6-ee14-c939-4acd-45d35d179dd8">
+      <Execution id="d2dc33a4-2728-4350-981b-586115aca494" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TriangleBasic" />
+    </UnitTest>
+    <UnitTest name="TriangleNotTriangle" storage="c:\documents and settings\04-user01.microsof-76fc62.000\рабочий стол\трпо\chuguilab1\chuguilab1\bin\debug\chuguilab1.dll" id="3a55d1bc-004e-fc94-bd4d-c03eac69b005">
+      <Execution id="00c9fc92-c54c-45df-bf44-8c84be8491b9" />
+      <TestMethod codeBase="C:/Documents and Settings/04-user01.MICROSOF-76FC62.000/Рабочий стол/трпо/ChuguiLab1/ChuguiLab1/bin/Debug/ChuguiLab1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ChuguiLab1.UnitTest1, ChuguiLab1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TriangleNotTriangle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1e60eff4-49fb-1043-e012-7333ce6e062d" executionId="4d5d4cbf-966d-4491-90a8-d72c709dafcd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f216e23-68ff-d555-3232-1f3fd8d9095d" executionId="63d39bd6-a8ed-45be-b0f0-57a09d5dea9a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a55d1bc-004e-fc94-bd4d-c03eac69b005" executionId="00c9fc92-c54c-45df-bf44-8c84be8491b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="43ab9d73-7439-f6ff-cded-3c6b9921ee3b" executionId="13de0027-618c-46a8-881e-c1dff852eaed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5046bf53-cdbc-d452-b0b7-d696d86a027f" executionId="1251a3fa-e175-4137-bc42-48245166df65" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5667c0c7-0c2a-07f3-cc62-9d00232a0507" executionId="44f223b0-a47d-4d77-a936-2601e7fae50f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="593d1ef1-a096-e454-f6dc-20e6450897da" executionId="a0185570-fd3c-4e32-ae47-aa1f50f75e2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5bad3c21-1fa5-d988-90fa-69b025d09d66" executionId="ba87ab33-0339-458d-b337-02b47c51aa89" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8227228f-dbda-d0f8-4343-5d09ef2373be" executionId="00a75164-c488-422c-970a-8c5c23845af3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a10abc9f-5203-0bc0-2cc4-14c613020f56" executionId="791631d7-7691-4298-857c-258668fbc67c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a27e9cf6-ee14-c939-4acd-45d35d179dd8" executionId="d2dc33a4-2728-4350-981b-586115aca494" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec87b362-8688-423c-d4f6-fcc54213434a" executionId="e9ef7a96-7c5e-4cc1-a23d-2bec1083638e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4d5d4cbf-966d-4491-90a8-d72c709dafcd" testId="1e60eff4-49fb-1043-e012-7333ce6e062d" testName="StringFormatterStringNull" computerName="MICROSOF-76FC62" duration="00:00:00.0514928" startTime="2020-02-17T12:43:46.2187500+03:00" endTime="2020-02-17T12:43:47.4843750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4d5d4cbf-966d-4491-90a8-d72c709dafcd">
+    </UnitTestResult>
+    <UnitTestResult executionId="63d39bd6-a8ed-45be-b0f0-57a09d5dea9a" testId="1f216e23-68ff-d555-3232-1f3fd8d9095d" testName="ArrayProcessorArraySorted" computerName="MICROSOF-76FC62" duration="00:00:00.0028456" startTime="2020-02-17T12:43:47.5000000+03:00" endTime="2020-02-17T12:43:47.5156250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="63d39bd6-a8ed-45be-b0f0-57a09d5dea9a">
+    </UnitTestResult>
+    <UnitTestResult executionId="00c9fc92-c54c-45df-bf44-8c84be8491b9" testId="3a55d1bc-004e-fc94-bd4d-c03eac69b005" testName="TriangleNotTriangle" computerName="MICROSOF-76FC62" duration="00:00:00.0030104" startTime="2020-02-17T12:43:47.5156250+03:00" endTime="2020-02-17T12:43:47.5468750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00c9fc92-c54c-45df-bf44-8c84be8491b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="13de0027-618c-46a8-881e-c1dff852eaed" testId="43ab9d73-7439-f6ff-cded-3c6b9921ee3b" testName="ArrayProcessorAll" computerName="MICROSOF-76FC62" duration="00:00:00.0055599" startTime="2020-02-17T12:43:47.5625000+03:00" endTime="2020-02-17T12:43:47.5781250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="13de0027-618c-46a8-881e-c1dff852eaed">
+    </UnitTestResult>
+    <UnitTestResult executionId="1251a3fa-e175-4137-bc42-48245166df65" testId="5046bf53-cdbc-d452-b0b7-d696d86a027f" testName="StringFormatterEXE" computerName="MICROSOF-76FC62" duration="00:00:00.0019217" startTime="2020-02-17T12:43:47.5937500+03:00" endTime="2020-02-17T12:43:47.6093750+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1251a3fa-e175-4137-bc42-48245166df65">
+    </UnitTestResult>
+    <UnitTestResult executionId="44f223b0-a47d-4d77-a936-2601e7fae50f" testId="5667c0c7-0c2a-07f3-cc62-9d00232a0507" testName="StringFormatterNotEXE" computerName="MICROSOF-76FC62" duration="00:00:00.0009509" startTime="2020-02-17T12:43:47.6250000+03:00" endTime="2020-02-17T12:43:47.6250000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44f223b0-a47d-4d77-a936-2601e7fae50f">
+    </UnitTestResult>
+    <UnitTestResult executionId="a0185570-fd3c-4e32-ae47-aa1f50f75e2c" testId="593d1ef1-a096-e454-f6dc-20e6450897da" testName="TriangleNegativeSide" computerName="MICROSOF-76FC62" duration="00:00:00.0052467" startTime="2020-02-17T12:43:47.6406250+03:00" endTime="2020-02-17T12:43:47.6562500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0185570-fd3c-4e32-ae47-aa1f50f75e2c">
+    </UnitTestResult>
+    <UnitTestResult executionId="ba87ab33-0339-458d-b337-02b47c51aa89" testId="5bad3c21-1fa5-d988-90fa-69b025d09d66" testName="ArrayProcessorDeleteDoubleNumbers" computerName="MICROSOF-76FC62" duration="00:00:00.0012364" startTime="2020-02-17T12:43:47.6562500+03:00" endTime="2020-02-17T12:43:47.6875000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba87ab33-0339-458d-b337-02b47c51aa89">
+    </UnitTestResult>
+    <UnitTestResult executionId="00a75164-c488-422c-970a-8c5c23845af3" testId="8227228f-dbda-d0f8-4343-5d09ef2373be" testName="StringFormatterStringVoid" computerName="MICROSOF-76FC62" duration="00:00:00.0008193" startTime="2020-02-17T12:43:47.7031250+03:00" endTime="2020-02-17T12:43:47.7187500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00a75164-c488-422c-970a-8c5c23845af3">
+    </UnitTestResult>
+    <UnitTestResult executionId="791631d7-7691-4298-857c-258668fbc67c" testId="a10abc9f-5203-0bc0-2cc4-14c613020f56" testName="ArrayProcessorCheckNegative" computerName="MICROSOF-76FC62" duration="00:00:00.0011490" startTime="2020-02-17T12:43:47.7187500+03:00" endTime="2020-02-17T12:43:47.7812500+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="791631d7-7691-4298-857c-258668fbc67c">
+    </UnitTestResult>
+    <UnitTestResult executionId="d2dc33a4-2728-4350-981b-586115aca494" testId="a27e9cf6-ee14-c939-4acd-45d35d179dd8" testName="TriangleBasic" computerName="MICROSOF-76FC62" duration="00:00:00.0059828" startTime="2020-02-17T12:43:47.7812500+03:00" endTime="2020-02-17T12:43:47.8125000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d2dc33a4-2728-4350-981b-586115aca494">
+    </UnitTestResult>
+    <UnitTestResult executionId="e9ef7a96-7c5e-4cc1-a23d-2bec1083638e" testId="ec87b362-8688-423c-d4f6-fcc54213434a" testName="StringFormatterTmp" computerName="MICROSOF-76FC62" duration="00:00:00.0046869" startTime="2020-02-17T12:43:47.8125000+03:00" endTime="2020-02-17T12:43:47.8281250+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9ef7a96-7c5e-4cc1-a23d-2bec1083638e">
+    </UnitTestResult>
+  </Results>
+</TestRun>

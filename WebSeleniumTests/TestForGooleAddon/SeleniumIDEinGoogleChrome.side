@@ -1,0 +1,158 @@
+{
+  "id": "48793c1b-d538-41c3-94b7-6a01c5146986",
+  "version": "2.0",
+  "name": "task2",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "337bfc7c-50f6-408a-b99e-a9415178a58b",
+    "name": "test nunit in google",
+    "commands": [{
+      "id": "205837fe-49e3-4a16-9067-405ca44db618",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f88c2d63-f5bd-47f2-a480-e523583e05f0",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "700x1040",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3aab5518-b510-41b7-b91f-05de4a06d4ef",
+      "comment": "",
+      "command": "click",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2cf4656-b158-4996-8bf7-f0c7c32beb50",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "unit testing"
+    }, {
+      "id": "efe1ca43-5f97-4447-b275-9f21d8906130",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "c985aa8b-b8aa-457a-8ce5-1c3654cdf4a1",
+      "comment": "",
+      "command": "click",
+      "target": "css=#rso > .g:nth-child(3) .LC20lb",
+      "targets": [
+        ["css=#rso > .g:nth-child(3) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div[3]/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div[3]/div/div/a/h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Unit testing - Wikipedia')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4c17e607-73d7-4b75-b1a7-45f7edf954c0",
+      "comment": "",
+      "command": "click",
+      "target": "id=searchInput",
+      "targets": [
+        ["id=searchInput", "id"],
+        ["name=search", "name"],
+        ["css=#searchInput", "css:finder"],
+        ["xpath=//input[@id='searchInput']", "xpath:attributes"],
+        ["xpath=//div[@id='simpleSearch']/input", "xpath:idRelative"],
+        ["xpath=//form/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1de5c025-61e2-4feb-a777-2ce1f9ccb46b",
+      "comment": "",
+      "command": "type",
+      "target": "id=searchInput",
+      "targets": [
+        ["id=searchInput", "id"],
+        ["name=search", "name"],
+        ["css=#searchInput", "css:finder"],
+        ["xpath=//input[@id='searchInput']", "xpath:attributes"],
+        ["xpath=//div[@id='simpleSearch']/input", "xpath:idRelative"],
+        ["xpath=//form/div/input", "xpath:position"]
+      ],
+      "value": "nunit"
+    }, {
+      "id": "68637437-af1f-4a82-aa88-ce19592321ab",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=searchInput",
+      "targets": [
+        ["id=searchInput", "id"],
+        ["name=search", "name"],
+        ["css=#searchInput", "css:finder"],
+        ["xpath=//input[@id='searchInput']", "xpath:attributes"],
+        ["xpath=//div[@id='simpleSearch']/input", "xpath:idRelative"],
+        ["xpath=//form/div/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "b8798bd9-23c9-480b-aa0e-ae18e24ca536",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Русский",
+      "targets": [
+        ["linkText=Русский", "linkText"],
+        ["css=.interwiki-ru > .interlanguage-link-target", "css:finder"],
+        ["xpath=//a[contains(text(),'Русский')]", "xpath:link"],
+        ["xpath=//div[@id='p-lang']/div/ul/li[6]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://ru.wikipedia.org/wiki/NUnit')]", "xpath:href"],
+        ["xpath=//div[2]/div[6]/div/ul/li[6]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Русский')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "43c41c86-c612-4351-9865-edbda4a22775",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Создать книгу",
+      "targets": [
+        ["linkText=Создать книгу", "linkText"],
+        ["css=#coll-create_a_book > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Создать книгу')]", "xpath:link"],
+        ["xpath=//li[@id='coll-create_a_book']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&bookcmd=book_creator&referer=NUnit')]", "xpath:href"],
+        ["xpath=//div[5]/div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Создать книгу')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "233d79c9-ed6e-4d9a-b24c-bf7db88b649e",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["337bfc7c-50f6-408a-b99e-a9415178a58b"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}

@@ -1,0 +1,8 @@
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\b\WFApplication\bin\Debug\WFApplication.exe.config
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\b\WFApplication\bin\Debug\WFApplication.exe
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.csprojAssemblyReference.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.Form1.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.Properties.Resources.resources
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.csproj.GenerateResource.cache
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.csproj.CopyComplete
+D:\Users\IcePrince\Desktop\Учеба\3 курс\Тест ПО\LAB3\WFApplication\.vs\WFApplication\v16\lut\0\i\WFApplication\Debug\WFApplication.exe
